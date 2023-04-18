@@ -34,9 +34,22 @@ Q3 Hackathon 2023
 
 # Ideen für Ziele
 
-- Aktuelles Freilassing nachbauen
-- Neue Gebäude oder Infrastuktur in Freilassing ausdenken und bauen
-- Escape Game oder Adventure in Freilassing
+## Aktuelles Freilassing nachbauen
+- Fotos machen - Texturen anlegen
+- Langweilig, oder?
+
+## Neue Gebäude oder Infrastuktur in Freilassing ausdenken und bauen
+- Texturen
+- Planung, gemeinsames Bauen
+- Kreativer
+- Evtl. eigene kleine Mod(s) erstellen
+
+## Eigenes Game in Freilassing
+- Game Idee entwickeln; Beispiele:
+  - Escape Game
+  - Adventure
+  - andere Spielideen ...
+
 
 # Lerninhalte
 
