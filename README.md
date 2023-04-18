@@ -45,13 +45,13 @@ Q3 Hackathon 2023
 - Fotos machen - Texturen anlegen
 - Langweilig, oder?
 
-## Neue Gebäude oder Infrastuktur in Freilassing ausdenken und bauen
+## Neue Gebäude oder Infrastuktur im eigenen Ort ausdenken und bauen
 - Texturen
 - Planung, gemeinsames Bauen
 - Kreativer
 - Evtl. eigene kleine Mod(s) erstellen
 
-## Eigenes Game in Freilassing
+## Eigenes Game im eigenen Ort
 - Game Idee entwickeln; Beispiele:
   - Escape Game
   - Adventure
