@@ -3,14 +3,16 @@ Q3 Hackathon 2023
 
 # Vorbereitung
 
+## Lokale Rechner
 - Minetest installation
   - Mods zum nutzen
   - Games zum zeigen
-  - Global erreichbaren Server bereit haben
-- VS Code
+≈- VS Code
   - Minetest Plugin
 - Blender
 
+## Global erreichbarer Rechner
+- Minetest Server
 
 # Lernen
 - Minetest Nutzung (easy)
