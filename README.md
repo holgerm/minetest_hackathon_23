@@ -25,6 +25,11 @@ Q3 Hackathon 2023
 - Eigene Rezepte anlegen
 - Mobs mit Blender, Animationen
 
+# Linksammlung
+
+- Super-Easy Einstiegs Videos vom Wiener Bildungsserver: https://www.youtube.com/watch?v=FF1cS8shRGM&t=9s
+- Minetest Modding Book: https://rubenwardy.com/minetest_modding_book/en/index.html
+
 # Mods
 
 - WorldEdit
