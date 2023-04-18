@@ -6,6 +6,7 @@ Q3 Hackathon 2023
 - Minetest installation
   - Mods zum nutzen
   - Games zum zeigen
+  - Global erreichbaren Server bereit haben
 - VS Code
   - Minetest Plugin
 - Blender
