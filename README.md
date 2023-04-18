@@ -1,6 +1,16 @@
 # minetest_hackathon_23
 Q3 Hackathon 2023
 
+# Vorbereitung
+
+- Minetest installation
+  - Mods zum nutzen
+  - Games zum zeigen
+- VS Code
+  - Minetest Plugin
+- Blender
+
+
 # Lernen
 - Minetest Nutzung (easy)
 - Mods / Modpacks installieren
