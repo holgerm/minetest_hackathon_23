@@ -14,7 +14,7 @@ Q3 Hackathon 2023
 ## Global erreichbarer Rechner
 - Minetest Server
 
-# Lernen
+# Was lernen die TN?
 - Minetest Nutzung (easy)
 - Mods / Modpacks installieren
 - Games laden
@@ -41,7 +41,7 @@ Q3 Hackathon 2023
 
 # Ideen für Ziele
 
-## Aktuelles Freilassing nachbauen
+## Aktuellen Ort nachbauen
 - Fotos machen - Texturen anlegen
 - Langweilig, oder?
 
